@@ -1,0 +1,8 @@
+1.Open Bash
+  -> $ source activate base
+
+2.$ conda create -p env python=3.8 -y
+    ->conda activate C:\Users\osama\Multilingual-Ai-Voice-Av
+    -> source activate ./env
+
+3.pip  install -r requirements.txt
